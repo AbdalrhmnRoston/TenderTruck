@@ -240,4 +240,16 @@ footer .contact .sochila i {
 }
 
 
+.menu.frozen .item {
+    border-bottom: 2px dashed #439bda;
+}
+
+.wighte {
+    width: fit-content;
+    margin: 5px auto 90px auto;
+    font-size: 40px;
+    font-weight: bold;
+    color: #3f9fd1;
+}
+
 /* Start Frozen Mene  */
